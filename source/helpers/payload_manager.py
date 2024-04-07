@@ -47,3 +47,66 @@ def create_token_payload():
     }
 
     return payload_token
+
+
+def create_booking_payload_integration():
+    payload = {
+        "firstname": "yash",
+        "lastname": "Alatekar",
+        "totalprice": 10000,
+        "depositpaid": True,
+        "bookingdates": {
+            "checkin": "2024-03-01",
+            "checkout": "2024-03-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+
+    return payload
+
+
+def patch_payload_integration():
+    payload = {
+        "firstname": "shambhavi",
+        "lastname": "Alatekar",
+        "totalprice": 10000,
+        "depositpaid": True,
+        "bookingdates": {
+            "checkin": "2024-03-01",
+            "checkout": "2024-03-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+
+    return payload
+
+def existing_put_payload_integration():
+    payload = {
+        "firstname": "john",
+        "lastname": "cameron",
+        "totalprice": 5000,
+        "depositpaid": True,
+        "bookingdates": {
+            "checkin": "2024-03-01",
+            "checkout": "2024-03-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+
+    return payload
+
+
+def invalid_payload_integration():
+    payload = {
+        "firstname": 123,
+        "lastname": "cameron",
+        "totalprice": "ABC",
+        "depositpaid": True,
+        "bookingdates": {
+            "checkin": "2024-03-01",
+            "checkout": "2024-03-05"
+        },
+        "additionalneeds": "Breakfast"
+    }
+
+    return payload

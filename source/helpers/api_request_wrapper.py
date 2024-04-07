@@ -34,3 +34,4 @@ def delete_request(url, headers, auth, payload, in_json):
     if in_json is True:
         return delete_response.json()
     return delete_response
+

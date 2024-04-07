@@ -16,7 +16,15 @@ class APIconstants(object):
     def create_booking_url():
         return "https://restful-booker.herokuapp.com/booking"
 
+    @staticmethod
+    def get_url(booking_id):
+        return "https://restful-booker.herokuapp.com/booking" + str(booking_id)
+
+
     # Update, PUT, PATCH, DELETE - bookingId
 
     def url_patch_put_delete(booking_id):
         return "https://restful-booker.herokuapp.com/booking/" + str(booking_id)
+
+
+

@@ -1,0 +1,1 @@
+{"name": "#TC1 update existing booking id", "status": "skipped", "description": "Verify attributes for existing booking id", "start": 1712502558432, "stop": 1712502558432, "uuid": "5eeb83f4-baf1-4285-986b-4a4ef32de3d6", "testCaseId": "c26bad2679271b690962dc9db04332a3", "fullName": "tests.test.integration.test_integration_3.Testsinglebookingupdate#test_update_existing_booking"}

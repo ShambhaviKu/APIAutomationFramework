@@ -1,0 +1,1 @@
+{"name": "TC#1 Delete booking", "status": "passed", "description": "Verify booking got deleted successfully", "start": 1712497769389, "stop": 1712497770512, "uuid": "230a29f7-7658-49a8-a96f-9ffe0bf1eb3f", "testCaseId": "fdc54057031c39726fd78b739477f2e1", "fullName": "tests.test.integration.test_integration_2.Testbookingget#test_delete_booking"}
