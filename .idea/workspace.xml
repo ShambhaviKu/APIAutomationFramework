@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05474bab-b24b-4743-9687-b17a85ed843d" name="Changes" comment="Data Driven Testing" />
+    <list default="true" id="05474bab-b24b-4743-9687-b17a85ed843d" name="Changes" comment="Data Driven Testing">
+      <change afterPath="$PROJECT_DIR$/allure.results/365fe1bd-3da4-4f45-a27b-2b9e57d2b43a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure.results/4de27fea-012d-409c-ad84-67a83334644c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure.results/839552d7-7bd0-47c2-a916-7d4811f21fd7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure.results/8c01e46c-92a6-4919-a697-0c71bf2f0166-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure.results/a79550c1-9b12-4eeb-9222-b9ef1a6df57f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure.results/b119780d-ff2e-445a-bfe1-dd01f30469d9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure.results/fc2c5f64-d13a-4188-b02c-d08be5975f9b-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,40 +44,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.executor": "Debug",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.executor": "Run",
-    "Python tests.Python tests for test_fullcrud_ops.TestCRUDBooking.executor": "Run",
-    "Python tests.Python tests for test_fullcrud_ops.TestCRUDBooking.test_delete_booking.executor": "Run",
-    "Python tests.Python tests for test_fullcrud_ops.TestCRUDBooking.test_update_booking_put.executor": "Run",
-    "Python tests.Python tests for test_fullcrud_ops_Better.TestCRUDBooking.executor": "Run",
-    "Python tests.Python tests for test_fullcrud_ops_Better.TestCRUDBooking.test_delete_booking.executor": "Run",
-    "Python tests.Python tests for test_integration_1.IntegrationTest.test_create_booking.executor": "Run",
-    "Python tests.Python tests for test_integration_1.TestBookingIntg.executor": "Run",
-    "Python tests.Python tests for test_integration_2.Testbookingget.executor": "Debug",
-    "Python tests.Python tests for test_integration_2.Testbookingget.test_delete_booking.executor": "Debug",
-    "Python tests.Python tests for test_integration_3.Testsinglebookingupdate.executor": "Debug",
-    "Python tests.Python tests for test_integration_3.Testsinglebookingupdate.test_update_existing_booking.executor": "Run",
-    "Python tests.Python tests for test_jsonschema.TestCreateBookingJsonSchema.test_create_booking_schema.executor": "Run",
-    "Python tests.Python tests in DDTesting_Better.py.executor": "Run",
-    "Python tests.Python tests in DDTesting_ForLoop.py.executor": "Run",
-    "Python tests.Python tests in test_create_booking.py.executor": "Run",
-    "Python tests.Python tests in test_fullcrud_ops.py.executor": "Run",
-    "Python tests.Python tests in test_fullcrud_ops_Better.py.executor": "Run",
-    "Python tests.Python tests in test_integration_1.py.executor": "Run",
-    "Python tests.Python tests in test_integration_2.py.executor": "Run",
-    "Python tests.Python tests in test_integration_3.py.executor": "Debug",
-    "Python tests.Python tests in test_integration_4.py.executor": "Run",
-    "Python.conftest.executor": "Run",
-    "Python.utils.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/alate/PycharmProjects/APITestAutomationFramework/tests/test/DataDrivenTesting"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_fullcrud_ops.TestCRUDBooking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_fullcrud_ops.TestCRUDBooking.test_delete_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_fullcrud_ops.TestCRUDBooking.test_update_booking_put.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_fullcrud_ops_Better.TestCRUDBooking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_fullcrud_ops_Better.TestCRUDBooking.test_delete_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_integration_1.IntegrationTest.test_create_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_integration_1.TestBookingIntg.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_integration_2.Testbookingget.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_integration_2.Testbookingget.test_delete_booking.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_integration_3.Testsinglebookingupdate.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for test_integration_3.Testsinglebookingupdate.test_update_existing_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_jsonschema.TestCreateBookingJsonSchema.test_create_booking_schema.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in DDTesting_Better.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in DDTesting_ForLoop.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_create_booking.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_fullcrud_ops.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_fullcrud_ops_Better.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_integration_1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_integration_2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_integration_3.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests in test_integration_4.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alate/PycharmProjects/APITestAutomationFramework/tests/test/DataDrivenTesting&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alate\PycharmProjects\APITestAutomationFramework\tests\test\DataDrivenTesting" />
